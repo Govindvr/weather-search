@@ -1,11 +1,11 @@
 const express = require('express');
 const axios = require('axios');
 
-const rawData = {
-    "locations": []
-  };
-
 const getWeather = async (req, res) => {
+    
+    const rawData = {
+        "locations": []
+      };
     
     const params = req.body;
     params.cities.forEach(item => {
