@@ -21,5 +21,6 @@ nodemon index.js
 The server will start running on http://localhost:3000. or the specified PORT
 
 ## Output
-![Alt text](server/screenshots/Screenshot from 2023-06-03 01-50-25.png?raw=true "GET")
-![Alt text](server/screenshots/Screenshot from 2023-06-03 01-51-04.png?raw=true "GET")
+![Alt text](server/screenshots/screenshot1.png?raw=true "GET")
+
+![Alt text](server/screenshots/screenshot2.png?raw=true "GET")
